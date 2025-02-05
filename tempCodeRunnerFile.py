@@ -1,0 +1,1 @@
+model_predict('C:\\Users\\aman0\\OneDrive\\Desktop\\new_ML_MODEL\\SOIL_CLASS\\Soil Types\\Alluvial soil\\alluvial 1.png', SoilNet)
